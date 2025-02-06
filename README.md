@@ -3,13 +3,16 @@ Este é um site de cardápio digital para uma cafeteria, desenvolvido usando HTM
 
 # 🛠 Tecnologias Utilizadas
 HTML5 → Estrutura do site
+
 CSS3 → Estilização e layout
 
 # 📷 Preview
 ![image](https://github.com/user-attachments/assets/cab3c970-7d47-473f-9ec8-8f7bad3b5016)
 
 # 🚀 Como Visualizar
-Baixe os arquivos ou clone o repositório:
-1.git clone https://github.com/seuusuario/nome-do-repositorio.git
+
+1.Baixe os arquivos ou clone o repositório:
+git clone https://github.com/seuusuario/nome-do-repositorio.git
+
 2.Abra o index.html no navegador.
 
