@@ -12,7 +12,8 @@ CSS3 → Estilização e layout
 # 🚀 Como Visualizar
 
 1.Baixe os arquivos ou clone o repositório:
-git clone https://github.com/seuusuario/nome-do-repositorio.git
+
+git clone https://github.com/DiogoSNs/Coffee-Menu-Website.git
 
 2.Abra o index.html no navegador.
 
